@@ -1,4 +1,4 @@
-# 📊 Excel Data Analysis Project
+# 📊   Excel-Bike Buyers
 
 This project showcases data cleaning, transformation, and analysis using Microsoft Excel.  
 The goal is to demonstrate Excel's capabilities for business intelligence and data storytelling without the use of programming or SQL.
